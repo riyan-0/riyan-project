@@ -1,0 +1,14 @@
+body {
+  height: 2000px;
+}
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #e2edff;
+}
+
+#propil {
+  background-color: aqua;
+}
+section {
+  padding-top: 10rem;
+}
