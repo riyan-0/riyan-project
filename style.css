@@ -9,8 +9,6 @@ html {
 ::webkit-scrollbar {
   width:0px;
 }
-::webkit-scrollbar-thumb {
-  background: #ff0000;
 } 
 .jumbotron {
   padding-top: 10rem;
