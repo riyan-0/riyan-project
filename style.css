@@ -2,6 +2,16 @@ body {
   height: 2000px;
   overflow-x: hidden;
 }
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::webkit-scrollbar {
+  width:0px;
+}
+::webkit-scrollbar-thumb {
+  background: #ff0000;
+} 
 .jumbotron {
   padding-top: 10rem;
   background-color: #e2edff;
